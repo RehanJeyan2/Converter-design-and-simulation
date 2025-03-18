@@ -1,5 +1,6 @@
 # Converter-design-and-simulation
-
+# Name : REHAN JEYAN
+# Register no : 212223040167
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
@@ -101,12 +102,13 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 
+## AC to DC Converter
+![image](https://github.com/AsinVardhini/Converter-design-and-simulation/assets/119417735/285ee905-1e8d-484f-bfbe-d4e0d929daad)
 
-
+## DC to DC voltage regulator
+![image](https://github.com/AsinVardhini/Converter-design-and-simulation/assets/119417735/c41d3e64-e1af-494d-b4dc-b4c034fd2b8d)
 
 
 # Result 
 
 Thus the AC to DC converter and DC voltage regulator are designed and simulated using Proteus.
-
-
